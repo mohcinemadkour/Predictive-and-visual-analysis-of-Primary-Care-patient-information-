@@ -1,0 +1,30 @@
+id,name,app_label,model
+1,permission,auth,permission
+2,group,auth,group
+3,user,auth,user
+4,"content type",contenttypes,contenttype
+5,session,sessions,session
+6,site,sites,site
+7,"log entry",admin,logentry
+8,revision,reversion,revision
+9,version,reversion,version
+10,"user profile",emr,userprofile
+11,"access log",emr,accesslog
+12,encounter,emr,encounter
+13,"encounter event",emr,encounterevent
+14,"event summary",emr,eventsummary
+15,"text note",emr,textnote
+16,problem,emr,problem
+17,goal,emr,goal
+18,"to do",emr,todo
+19,guideline,emr,guideline
+20,"patient image",emr,patientimage
+21,sharing,emr,sharing
+22,viewer,emr,viewer
+23,"view status",emr,viewstatus
+24,"problem relationship",emr,problemrelationship
+25,"pain avatar",pain,painavatar
+26,"user social auth",social_auth,usersocialauth
+27,nonce,social_auth,nonce
+28,association,social_auth,association
+29,"guideline form",emr,guidelineform

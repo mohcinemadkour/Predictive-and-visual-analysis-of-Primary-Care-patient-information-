@@ -1,0 +1,1001 @@
+id,patient_id,problem_id,todo,accomplished
+1,5,4,"start PT",1
+2,5,4,"xray Lumbar spine.",1
+3,5,5,"get a counselor at CMH",1
+4,8,7,"find Rheumatology that is covered by insurance.",1
+5,8,7,"get bloodwork: RF, ANA, CRP",1
+6,8,NULL,"2 weeks of doxy",1
+7,18,11,"PSA diagnostic",1
+8,18,11,"UA, cmp at hospital.",1
+9,20,16,"continue with weight watchers.",1
+10,20,18,"get down to 2 a day.",1
+11,20,18,"only smoke 2 cigs a day.",1
+12,20,19,"continue with weight watchers",1
+13,21,22,"cbc, cmp, tsh, vit B12, vit D labs.",1
+14,21,23,"start PT",1
+15,21,23,"xray lumbar spine.",1
+16,22,26,"f/u w neurosurgeon.",1
+17,22,28,"find second opinion for surgical review.",1
+18,22,25,echo,1
+19,22,25,"carotid dopplers.",1
+20,22,29,"repeat cbc, peripheral smear before Sept.",1
+21,22,29,"SPEP, UPEP",1
+22,25,NULL,"GET HAIRCUT",1
+23,24,NULL,test,1
+24,24,NULL,test,1
+25,23,NULL,test,1
+26,25,NULL,"Todo name",0
+27,31,33,"xray if not improving.",1
+28,33,35,"ref to neurosurgeron in GR.",1
+29,33,35,"MRI lumbar spine.",1
+30,33,35,"taper down neurontin.",1
+31,33,36,"compression stockings.",1
+32,33,36,"bmp ordered",1
+33,33,37,"start psychotherapy.",1
+34,34,NULL,"MRI brain w/ wo contrast.",1
+35,34,NULL,"review CT, communicate w Dr. Erlich w results.",1
+36,35,43,"see neurologist in Florida, Bradington.",1
+37,37,51,"CT cervical spine, NO MRI due to pacemaker.",1
+38,38,54,"xray lumbar spine if not improving.",1
+39,38,54,"PT for back if not improving.",1
+40,41,68,"if knee not improving then ortho.",1
+41,41,70,"f/u w Ophthalmology for eval.",1
+42,42,NULL,"annual physical.",1
+43,43,73,"26th aug f/u cardiology.",1
+44,43,NULL,"PSA in sept/oct.",1
+45,43,73,"chest xray, re-asses for fluid resolution.",1
+46,44,80,"f/u w Buswinka",1
+47,44,79,"start psychotherapy.",1
+48,44,83,"15 mins of SOME KIND of exercise.",1
+49,44,83,"5 mins of SOME KIND of exercise 6 times a week.",0
+50,44,NULL,"zinc, tsh, cbc, cmp, microalbumin, lipids.",1
+51,44,85,"MRI lumbar",1
+52,44,85,"start PT",1
+53,45,87,"trial sleeping on the floor.",1
+54,45,87,"stretches, go on youtube find other stetches.",1
+55,45,89,"particular with food quality.",1
+56,45,89,"power bars",1
+57,45,89,"monitor caloric intake.",1
+58,45,NULL,"20 min breaks while studying.",1
+59,4,92,"cbc, cmp, ua",1
+60,4,92,"elevate legs",1
+61,46,93,"labs ordered.",1
+62,46,94,"Local pain clinic for possible facet injections.",1
+63,46,97,"vitamin D 2000 Units a day.",1
+64,46,97,"bone density, late 2014",1
+65,47,99,"cmp in Fall 2014.",1
+66,35,NULL,"stop niacin",1
+67,42,72,"ortho consult if not improving.",1
+68,54,124,"trial of not using spiriva.",1
+69,54,122,"Reduce ice cream to once a week",1
+70,54,123,"trial of not using spiriva.",1
+71,54,NULL,"CBC, ANS CMP in August.",1
+72,46,93,"Start Lisinopril.",1
+73,46,137,"will try celexa 10 mg.",1
+74,46,136,"start Valacyclovir",1
+75,57,139,"call VA regarding transferring pain management to Dr.Ryan",1
+76,57,139,"taper off gabapentin.",1
+77,34,38,"f/u at UofM",1
+78,34,NULL,"continue with PT",1
+79,34,144,"apply topical zinc based diaper ointment",1
+80,34,144,"if not improving then see Gyn.",1
+81,46,145,"OTC magnesium twice a day.",1
+82,46,145,"recheck magnesium in Oct 14",1
+83,57,139,"only take one morphine a day.",1
+84,22,25,"echo aug 13th",1
+85,22,26,"set up apt w Edgar, neurosurgeon.",1
+86,22,NULL,"start using 4 legged walker with seat.",1
+87,22,25,"holter monitor",1
+88,22,25,"check BP at home, randomly, and when event happens.",1
+89,22,25,"bring in blood pressure device to next apt.",1
+90,22,28,"MRI lumbar spine.",1
+91,58,NULL,"no coumadin until sat, resume 4mg a day, check INR 2 wks thereafter.",1
+92,58,NULL,"vitamin E to knee laceration.",1
+93,5,5,"will have apt with Dr at CMH.",1
+94,5,4,"if PT not helping then MRI lumbar spine.",1
+95,5,NULL,"This is where i put a question.",1
+96,4,153,"repeat UA, and CMP friday.",1
+97,4,154,"only smoke 1 cig a day starting Friday.",1
+98,4,2,"apt on 27th of august.",1
+99,4,155,echo,1
+100,22,156,"SPEP, UPEP",1
+101,22,156,"repeat cbc, peripheral smear before Sept.",1
+102,50,157,"US of thyroid fall of 2014",1
+103,20,158,"start buspirone 10mg twice a day for one week, may increase to three a day there after.",1
+104,20,NULL,"ref for birth control w Dr Gustafson.",1
+105,60,163,"increase norco 5mg to 5 a day as needed.",1
+106,61,166,"cbc drawn",1
+107,20,167,"gyn exam (no pap) Nov 2014",1
+108,46,NULL,"REPEAT CBC, CMP in August.",1
+109,46,NULL,"repeat TSH, w thyroid cascade.",1
+110,18,11,"continue to use adult absorbent briefs. ",1
+111,18,14,"apt w Greenslate.",1
+112,18,15,"come up with 2 other things to do when feeling stressed, OTHER than eating.",1
+113,18,15,"write a list of alternatives to eating for stress and emotional management.",1
+114,18,169,"joint injection if not improving.",1
+115,18,15,"2-5 lb weight loss by early sept.",1
+116,40,67,"hematology consult pending.",1
+117,61,166,"recheck in march 15.",1
+118,61,166,"recheck cbc march 2015",1
+119,61,175,"SPEP, UPEP ordered.",1
+120,47,176,"repeat cbc Fall of 14",1
+121,47,99,"us of the liver.",1
+122,47,178,"come up with plan for winter so weight doesn't increase.",1
+123,40,62,"will establish at lighthouse.",1
+124,40,60,"recheck testosterone second week in sept at 8 am.",1
+125,40,180,"discuss aspirin use with hematology.",1
+126,66,185,"start fluoxetine 10mg",1
+127,66,185,"keep being social, senior center",0
+128,66,NULL,"cbc, cmp ordered",1
+129,66,NULL,"walk daily.",0
+130,66,NULL,"reconsider MRI of brain at next apt.",1
+131,40,NULL,"Speak with doctor Ryan about greatly increased appetite ",1
+132,69,189,"cmp end aug",1
+133,69,190,"repeat cbc, hemoccult end august",1
+134,46,191,"repeat cmp",1
+135,46,136,"increase norco to max of 8 a day.",1
+136,46,136,"regular supervision while titrating narcotics.",1
+137,46,136,"topical silvadene",1
+138,46,136,"trial gabapentin",1
+139,46,94,"has apt scheduled w Greenslate.",1
+140,46,145,"increase OTC Mg three a day.",1
+141,46,95,"will try to switch to a H2 blocker.",1
+142,46,93,"increase lisinopril to 40mg a day.",1
+143,46,93,"check BP twice a day.",1
+144,73,NULL,"repeat cmp in 2-3 months.",1
+145,73,196,"cmp in oct",1
+146,75,203,"h.pylori test",1
+147,75,203,"trial omeprazole, carafate.",1
+148,75,NULL,"screening colonoscopy 2014",1
+149,74,205,"trial PPI and carafate for 1 month.",1
+150,74,205,"trial caster oil.",1
+151,79,217,"f/u CT",1
+152,57,219,"blow against pressure, as needed.",1
+153,57,139,"has apt w Greenslate for more injections.",1
+154,57,140,"Has been helped at in patient in N. Chicago VA",0
+155,34,144,"try terconazole 0.4 vaginal.",1
+156,34,220,"consider ear tubes if not improving.",1
+157,34,221,"gradually increase daily walking.",1
+158,38,222,"ref to neurosurgery SHMG at beltline.",1
+159,38,223,"cxr chest",1
+160,79,224,"stop smoking",1
+161,22,156,"CBC in jan/feb",1
+162,22,235,"recheck folate in jan/feb",1
+163,22,NULL,"US of kidney as scheduled.",1
+164,22,28,"try to take half a norco and check to see if blood pressure not dropping as low.",1
+165,4,3,"call if bs not returning to normal after infection gone.",1
+166,84,260,colonoscopy.,0
+167,84,264,"tell mind to say stop when racing.",1
+168,84,260,"trial digestive enzymes at a very low dose.",1
+169,84,265,"trial of Macca root",1
+170,84,NULL,"repeat cxr",1
+171,86,279,"repeat echo, maybe at Cleveland clinic vs TC.",1
+172,86,280,"xray if not improving.",1
+173,87,282,"xray cervical spine.",1
+174,87,283,"get second opinion.",1
+175,87,283,"start PT",1
+176,89,NULL,"carotid ultrasound ",1
+177,90,295,"ref to nephro",1
+178,90,294,"ref to ENT",0
+179,90,296,"repeat UA",0
+180,90,298,"fsh, lh, prolactin, tsh ordered",1
+181,92,313,"obtain old lab values for comparison.",1
+182,92,313,"recheck SPEP in spring/summer 2015",1
+183,92,NULL,"find female gyn for management. ",1
+184,37,324,"CT cervical spine, NO MRI due to pacemaker. (for problem arm pain)",1
+185,46,136,"may increase gabapentin by one extra tab a day up to 6 a day. DO NOT STOP ABRUPTLY ***",1
+186,46,93,"check BP every other day.",1
+187,46,93,"lisinopril will be 40mg per tab, so only take one a day.",1
+188,46,93,"will TRY to taper down the Bisoprolol-HCTZ and check BP as before.",1
+189,46,192,"free T4 w next blood draw",1
+190,46,95,"try d/c omeprazole",1
+191,35,45,"A1C in Oct",1
+192,37,335,"f/u w neurosurgery, in Sept.",1
+193,37,337,"cmp in sept",1
+194,37,337,"trial cutting back on lasix",1
+195,43,73,"sleep study, r/o sleep apnea.",1
+196,43,73,"f/u w cardiology in late winter '15",1
+197,43,NULL,"cbc, cmp end sept assuming all well.",1
+198,43,338,"repeat cxr late sept.",1
+199,43,339,"go on you tube, and learn stretches.",1
+200,90,296,"resume 2 wk course of augmentin.",0
+201,90,352,"repeat prolactin level spring of 15",0
+202,90,298,"repeat MRI brain 2016",0
+203,95,NULL,"cbc, cmp, tsh, mg",0
+204,95,NULL,ekg,1
+205,95,353,ekg,1
+206,44,85,"ref to neurosurgery in TC (Zimmerman)",1
+207,44,354,"xray knee",1
+208,44,77,"repeat TSH end of Oct 14",1
+209,44,355,"start lipitor 10mg",1
+210,44,355,"cmp in Dec 14",1
+211,69,190,"iron studies",1
+212,69,189,"U/S kidneys ",1
+213,69,189,"CMP, CBC end of september ",1
+214,20,357,"treatment plan??",1
+215,46,137,"start psychotherapy if needed.",1
+216,34,38,"try low dose gabapentin",1
+217,34,220,"ear tube placement pending.",1
+218,56,365,"f/u w gen surg",1
+219,56,NULL,"cbc, cmp ordered to asses baseline.",1
+220,98,366,"repeat cmp",1
+221,98,NULL,"ionized Ca, and Mg ordered for low ca",1
+222,86,280,"xray R tib.",1
+223,18,169,"MRI L knee",1
+224,18,169,"xray L knee",1
+225,99,370,"MRI of brain ",1
+226,99,NULL,"find old labs",1
+227,99,NULL,"scheduled voids",1
+228,99,372,"urine culture sent",1
+229,99,369,"monitor, and review caloric intake",0
+230,99,NULL,"obtain current medication list ",1
+231,99,373,"Try Tramadol PRN",1
+232,99,373,"follow up w/ ortho",1
+233,5,4,"PT at the hospital",0
+234,5,4,"MRI lumbar spine",0
+235,4,153,"UA in oct",1
+236,4,378,"bmp mid sept",1
+237,4,2,"see Dr Edgar",1
+238,4,249,"get new house cleaner.",1
+239,4,1,"re-establish care w Dr Buswinka",1
+240,4,349,"resume trazadone.",1
+241,4,350,"fax TSH results to endo, will defer",1
+242,101,382,"await EMG results from TC",1
+243,101,382,"await MRI from TC",1
+244,101,383,"10 / day MAX",1
+245,101,384,"gradually taper down",1
+246,99,386,"ionized Ca ordered",1
+247,95,387,"repeat Mg",0
+248,99,NULL,"Todo name",1
+249,20,357,"repeat cmp in march 14",1
+250,20,393,"repeat cbc, ferritin in march/14",1
+251,20,393,"start taking OTC iron, dark leafy greens",1
+252,20,388,"augmentin if not improving as discussed.",1
+253,20,392,"down to 2 tramadol a day until weight goes down.",1
+254,20,392,"down to 2 tramadol a day until weight goes down.",1
+255,104,394,"get down to 3/day",0
+256,104,395,"cbc, ferritin by winter 14",1
+257,104,396,"diagnosic PSA 2014",1
+258,104,399,"decrease simvastatin from 40mg to 20mg",1
+259,104,391,"decrease coozar from 100mg to 50mg a day",1
+260,105,398,"will try to resume metformin 500mg 2 tabs twice a day due to diffficulty swallowing.",1
+261,61,175,"cmp early '15",1
+262,61,400,"compression stocking",1
+263,61,166,"ferritin in spring",1
+264,61,NULL,"check cholesterol at next blood draw",0
+265,61,401,"TSH in spring 15",1
+266,93,317,"possible UofM reconstruction.",1
+267,33,403,"cmp in spring 15",1
+268,99,404,"take cipro",1
+269,99,404,"recheck UA after AB",1
+270,108,414,"cbc spring 15",0
+271,108,411,"cut valium to 3/day",1
+272,108,415,"loose 1 lb a month",1
+273,107,NULL,"bring in all medications to next apt",1
+274,107,408,"schedule PT ",1
+275,107,417,"try ketoconazole shampoo",1
+276,107,409,"CMH involvement??",1
+277,95,418,"repeat LFT in nov",0
+278,95,419,"repeat cmp today",0
+279,95,NULL,UA,0
+280,40,422,"consult Dr Smith urology",1
+281,40,62,"seeing counsellor at Lighthouse.",1
+282,29,91,"screening labs",0
+283,93,318,"cbc end 2014",1
+284,93,405,"periph smear, spep, upep mid 2015",1
+285,93,318,"iron studies with next blood draw",1
+286,93,314,"TSH spring 15",1
+287,95,418,"HBsAg, anti-HBs, anti-HBc, anti-HCV order",0
+288,29,428,"Xray of lower back",1
+289,29,428,"20-30 minutes walking per day",1
+290,29,429,ekg,1
+291,29,429,"CMP, CBC, lipids, TSH, Mg",0
+292,29,NULL,"follow up 2 weeks",1
+293,90,295,"f/u nephrology in late 2015",0
+294,29,448,"repeat Mg in Nov 15",0
+295,29,NULL,"ask doctor about colonscopy",0
+296,111,458,"will consider PT, but not yet.",1
+297,22,28,"Dr. Edgar apt on 9/19",1
+298,22,460,"us kidney",1
+299,22,236,"review US kidney, then call nephrology.",1
+300,98,462,"vit D, PTH ordered",1
+301,42,463,"MRI of brain",1
+302,42,463,"EKG ",1
+303,42,463,"cmp, cbc, TSH,",1
+304,112,465,"resume HRT",1
+305,112,472,"will try to cut back on allopurinol mid 2015",1
+306,112,NULL,"shave bx of medial LE lesion",1
+307,112,474,"ophthalmology exam ",1
+308,113,NULL,"call office with list of current medications",1
+309,113,478,"work on core strengthening exercises ",1
+310,113,479,"ortho bone health clinic ",1
+311,4,1,"f/u Buswinka 29th",1
+312,4,2,"switch to tramadol for short time.",1
+313,54,123,"apt w Pulm in oct",1
+314,54,123,"f/u w pulm in Nov",1
+315,54,NULL,"give forms for cbc, cmp",1
+316,29,424,"d/c gabapentin",1
+317,115,NULL,"2-3000 units of vit D",1
+318,115,483,"repeat lipids middle of 2015",1
+319,115,486,"marriage counselling if needed",1
+320,115,487,"holter monitor if sx persist",1
+321,115,487,"event monitor prn",1
+322,33,488,"try nasal irrigation.",1
+323,91,490,"try nasal steroid if not improving ",1
+324,34,220,"redo allergy testing",1
+325,34,38,"increase gabapentin",1
+326,54,123,"resume advair and spiriva",1
+327,91,302,"1 lb weight loss by next apt",1
+328,95,NULL,"repeat UA in oct",0
+329,46,137,"Any way you can up the anti-depressant by 10 mg?",1
+330,116,NULL,"screening labs",0
+331,116,493,"repeat Mg end of 14",0
+332,116,492,"BMD end of 14",0
+333,116,NULL,"PE later in 2015",0
+334,117,496,"repeat PSA in Oct. ",1
+335,117,496,"CT scheduled for Oct. ",1
+336,117,497,"repeat UA at hospital ",1
+337,117,497,"repeat UA late OCT",1
+338,117,500,"if not improving, consider therapy at Lighthouse",1
+339,87,285,"tobacco metabolite random testing",1
+340,62,507,"take AB if sx worsen",1
+341,46,136,"try lidoderm patch, may cut to fit area.",1
+342,46,137,"will increase celexa to 20mg",1
+343,119,508,"MRI leg",1
+344,69,189,"cmp dec",1
+345,69,190,"repeat cbc in dec",1
+346,118,501,"pain management with Greenslate",1
+347,121,515,"f/u w Ortho review option",1
+348,121,516,"ref for ortho pending",1
+349,66,526,"tsh, vit d, hepatitis panel",1
+350,56,527,"repeat CBC oct 2014",1
+351,56,184,"careful taper down of oxycodone",1
+352,56,184,"topical lotion or vit E oil",1
+353,56,251,"trial new mask, may need titration.",1
+354,56,251,"Sleep study in Marquette",1
+355,4,350,"f/u endo Oct.",1
+356,4,378,"cmp Nov 2014",1
+357,124,531,"trial start Lithium.",1
+358,124,531,"cmp, Li levels oct/14",1
+359,124,533,"f/u Edgar, neurosurgery",1
+360,22,236,"ref to nephrology",1
+361,127,547,"try and cut back on Ambien ",1
+362,127,551,PT,1
+363,127,548,"cbc, cmp",1
+364,127,552,"repeat vit D in Oct/Nov",1
+365,130,563,"X-ray of knees ",1
+366,130,562,EKG,1
+367,130,562,"stress test ",1
+368,130,565,"cbc, cmp, tsh",1
+369,130,565,cxr,1
+370,130,565,"does albuterol help?",1
+371,125,566,"establish med management at CMH",1
+372,125,566,"d/c pristiq",1
+373,128,558,PT,1
+374,56,365,"continue sulfa",1
+375,56,184,"taper off lyrica, slowly ramp up gabapentin",1
+376,108,NULL,"screening labs due in jan",1
+377,18,368,"1 lb weight loss by nov.",1
+378,86,572,"hot compress, AB if sx worsen.",1
+379,132,NULL,"ask doc about whatever",1
+380,132,574,"stay at 4 norco/24 hours",1
+381,132,575,"pick an event to look forward to.",1
+382,132,575,"counselling at Lighthouse.",1
+383,132,574,"take ibuprofen 200mg 3 times a day",1
+384,132,575,"can take xanax three times a day as needed.",1
+385,131,568,"await MRI results",1
+386,131,577,"rectal exam at PE",1
+387,131,571,"start statin??",1
+388,131,579,"ref to urology",1
+389,97,358,"apt with nephrologist at end of month ",1
+390,97,358,"apt with urologist next week to do U/S of bladder",1
+391,97,580,"f/u nephrology",1
+392,97,580,"f/u urology",1
+393,97,581,"f/u GI for subsequent gastric cautery.",1
+394,97,NULL,"cbc, cmp now",1
+395,97,557,"continue PT, OT",1
+396,18,15,"1 lb weight loss by nov",1
+397,132,NULL,"Limit naps to 2/day that are less than 1 hour each",1
+398,132,NULL,,1
+399,34,587,"contact surgeon in Ann Arbor",1
+400,81,228,"if sx not improving then repeat MRI due to worsening leg pain L",1
+401,81,228,"will try to switch to long acting ultram",1
+402,34,587,"oral doxy, and topical steroid",1
+403,62,588,"cbc, cmp, mg ordered",1
+404,62,588,"trial tonic water and stretches before bed",1
+405,94,340,"try to take meds TID",1
+406,94,589,"new hearing aids",1
+407,94,NULL,"sleep study if noting worsening symtoms.",1
+408,94,590,"ref to urology",1
+409,41,NULL,"consider psychiatrist eval to discuss PTSD",1
+410,134,592,"trial restoril 30mg",1
+411,134,595,"MRI cervical spine.",1
+412,134,593,"if not improving PFT",1
+413,135,598,"UA, CBC w/ ferritin in three weeks.  hemoclult cards X3 ",1
+414,82,604,"bone scan of both feet.",0
+415,82,604,"wear supportive shoes",0
+416,82,605,"careful weight loss",0
+417,97,606,"elevate legs, compression stockings.",0
+418,82,NULL,"consider Born clinic for comprehensive integrative assessment. ",0
+419,82,603,"possible repeat MRI brain",0
+420,93,405,"will contact hematology after results back.",1
+421,131,577,colonoscopy,1
+422,131,579,"UA, cmp, cbc, renal US if not improving then ref to urology ",1
+423,131,568,"start PT",1
+424,131,569,"cut back to 3 cigs/day in anticipation of possible surgery",0
+425,131,568,"increase to norco 10",1
+426,131,568,"ref to neurosurgery at UofM",1
+427,4,349,"reduce trazadone to 1.5 tabs a night for one week, then resume 2.5 tabs next week",1
+428,4,2,"EMG pending",1
+429,4,2,"f/u w pain clinic in Muskegon",1
+430,4,378,"cmp oct 14",1
+431,72,607,"X-ray of right arm/shoulder",1
+432,72,612,"start PT ",1
+433,72,607,"PT ",1
+434,72,608,"set up counseling ",1
+435,72,614,"possibly move into the towers",1
+436,44,85,"Back surgery scheduled w/ Zimmermen on 10/16",1
+437,50,615,"short term ativan use",1
+438,20,NULL,"IF WEIGHT NOT LOWERED BY AT LEAST ONE LB THEN CUT BACK TO ONE TRAMADOL A DAY",1
+439,130,584,"cbc spring 2015",1
+440,125,534,"switch from vyvanse to adderal 10mg xr",1
+441,125,618,"trial ambien",1
+442,125,539,"quit end of Oct 2014",1
+443,125,541,"discuss possible surgical correction",1
+444,79,216,"try taking fluoxetine at night instead of in the morning to see if it helps w/ daily fatigue",1
+445,79,NULL,"f/u CT in 6 months ",1
+446,4,248,"rest, no smoking, if sx worsen then azith and medrol dose, f/u if worsening.",1
+447,138,623,"continue to watch caloric intake",0
+448,138,622,"one day a month, no cigarette for the entire day",1
+449,130,565,"stress test",1
+450,34,587,"vit E oil, hypoallergenic moisturized.",1
+451,99,371,"check BP when feeling dizzy",1
+452,99,371,"slow adjustments in the morning",1
+453,99,386,PTH,1
+454,99,369,"boost or ensure",0
+455,132,625,"stretch and walk it out",1
+456,132,576,"if not improving then counselling",1
+457,132,574,"may take tylenol prn",1
+458,132,574,"continue to taper down on norco",1
+459,107,410,"loose 2 lb by end of Nov",1
+460,134,627,"trial of starting stopping new meds, follow sx.",1
+461,134,627,"medrol dose pack if getting worse",1
+462,134,627,"benadryl prn",1
+463,117,635,"stretch regularly",1
+464,117,496,"per urologist repeat PSA and testosterone in February",1
+465,117,635,"xray and PT if not improving",1
+466,140,630,"start cardiac rehab when ready",1
+467,140,630,"will call cardiology, go to ER for eval",1
+468,35,637,"doxy 100mg bid",1
+469,35,637,"check temp TID, ER if sx worsen",1
+470,35,637,"elevate leg",1
+471,139,639,"increase clonazepam temporarily  ",1
+472,139,644,"topical steroids prn",1
+473,46,95,"trial switching from omeprazole to ranitidine.",1
+474,46,192,"TSH spring 2014",1
+475,46,168,"recheck Microalbumin spring 2014",1
+476,46,94,"if pain not controlled with ONLY 3 norco/day then see Greenslate",1
+477,46,94,"taper from 5 norco to 4 norco over the next moth",1
+478,46,646,"trial voltaren gel",1
+479,22,28,"if injection not helping, will have surgery w Edgar",1
+480,22,236,"apt w nephrology 12/16",1
+481,125,649,"will call and coordinate with health dept.",1
+482,134,627,"continue steroids, benadryl hold lisinopril.",1
+483,134,596,"check BP at office week oct 20",1
+484,37,651,"silvadene, bx if not improving",1
+485,37,52,"resume lantus, 5 units in the am",1
+486,37,322,"home nursing to check bp 10/15",1
+487,143,652,"start taking oral iron supplement??",1
+488,143,650,"repeat TSH",1
+489,143,NULL,"repeat CBC",1
+490,143,NULL,"repeat UA",1
+491,125,566,"establish w William's in manistee",1
+492,125,566,"start celexa",1
+493,125,649,"will speak w ID",1
+494,145,658,"stop Advair ",1
+495,145,658,"ENT if sx not improving",1
+496,145,659,"repeat TSH before end of 2014",1
+497,145,NULL,"cbc, cmp, lipids",1
+498,145,662,"start with stretching as shown",0
+499,145,662,"if worse see ortho",0
+500,145,660,"scheduled voiding, if not improving see urology.",1
+501,146,663,"take BS when you feel hypoglycemic",1
+502,72,608,"resume fluoxetine",1
+503,147,672,"increase Lipitor to 40mg",1
+504,147,672,"lipid panel in May",1
+505,147,NULL,"CBC, CMP, PSA, microalbumin in may",1
+506,87,677,valium,1
+507,87,283,"TENS helps a little",1
+508,87,NULL,"annual labs due in 5/15",0
+509,87,NULL,"us carotids due to finding on cervical xray",1
+510,93,317,"apt at UofM for reconstruction",1
+511,93,315,"f/u PM&R",1
+512,148,679,"f/u neurosurgeon",1
+513,148,NULL,"to what extent are her tumors effecting her congntion.",1
+514,69,682,"repeat tsh/ free t4 oct/nov 14",1
+515,86,279,"possible repeat MRI cardiac, may f/u in TC due to logisctics",1
+516,149,NULL,"will check labs and have PE in spring 15",0
+517,40,422,"f/u w urology for work release.",1
+518,40,67,hematology?,1
+519,55,690,"mammo (has forms)",0
+520,55,690,"cbc, cmp, lipids, microalbumin (has forms)",0
+521,55,133,"bone density before spring of '15",0
+522,146,663,"try to find NPH from rep due to cost",1
+523,148,676,"f/u w psych counseling to determine if stable enough to resume school",1
+524,128,558,"3 days of narcotic rx",1
+525,128,558,"switch to Greenslate for pain managment",1
+526,18,11,"limit liquid intake at night before bed time",1
+527,18,169,"MRI of left knee if steroid injection does not work",1
+528,18,11,"scheduled voiding: start with going to urinate every hour, gradually increase time between voids.",1
+529,50,157,"repeat U/S in one year (fall 2015)",1
+530,115,481,"Start practicing the SIX Healing Sounds daily.",1
+531,50,117,"trial reglan prn",1
+532,50,113,"will add rapid acting to scale",1
+533,36,700,"ENT ref",1
+534,22,NULL,"f/u cxr end of oct",1
+535,22,703,"repeat UA",1
+536,151,697,"repeat lipids",0
+537,151,705,"finish OT",1
+538,151,698,"repeat cbc",1
+539,151,707,"repeat cbc",1
+540,151,702,"trial taking 600mg of gabapentin before bed as needed",1
+541,151,698,"xanax prn",1
+542,153,708,"compound w ",1
+543,153,710,"expectant care, f/u if not improving.",1
+544,153,709,"continue current care plan, will re-assess after her 6th birthday",1
+545,151,NULL,"obtain records from neurology",1
+546,151,702,"consider neurosurgical intervention as hand improves. ",1
+547,154,711,"otc Mg some formation that she can swallow",1
+548,154,712,"increase amlodapine from 5 to 10mg a day.",1
+549,154,712,"check bp at home 3/wk at various time",1
+550,154,NULL,"repeat lipids, microalbumin, Mg, cmp",1
+551,154,NULL,"mammogram 2015",1
+552,154,713,"uric acid level ordered",1
+553,154,715,"home safety eval??",1
+554,123,717,"xray if not improving",1
+555,123,NULL,"cbc, cmp, lipids, microalbumin before end nov 2014",1
+556,123,719,"loose 1 lb by nov apt.",1
+557,155,724,"meeting w Linda",1
+558,155,720,"resume Lamictal",1
+559,97,581,"Hgb labs sent to Dr. Putty's office",0
+560,97,581,"repeat CBC 10/22",1
+561,13,725,"improve dietary compliance ",0
+562,13,732,"improve quantity and quality",1
+563,13,726,"f/u w WSC spring 15",1
+564,13,726,"improve compliance w meds",1
+565,13,NULL,"cbc, cmp, lipids, microalbumin Nov 2015",1
+566,37,52,"taper up lantus by 3 units every 5 days",1
+567,37,329,"resume advair",1
+568,37,337,cmp,1
+569,37,335,"neurosurgery apt pending",0
+570,37,335,"CT mylogram pending",0
+571,54,734,"apt 10/25 pending",1
+572,54,734,"wear compression stockings, elevate legs",1
+573,54,737,"cbc end oct",1
+574,54,738,"repeat CMP",1
+575,54,NULL,"ammonia lvl w next blood draw",1
+576,22,741,"practice coping mechanism",1
+577,158,745,"cbc, ferritin, TIBC ordered",1
+578,35,637,"frequent mobilization while traveling",1
+579,148,680,"consider psychiatry ref at U of M",1
+580,148,681,"can Dr Ryan speak on phone w Laura?",1
+581,113,746,"tobradex prn",1
+582,72,750,"repeat cbc.",1
+583,72,NULL,"coordinate with friend Bill to figure out housing",1
+584,72,614,"short term, vouchers for hotel.",1
+585,69,682,"start levothyroxine 25 mcg",1
+586,69,682,"TSH end of dec 2014",1
+587,54,738,"cmp end of oct",1
+588,160,752,"MRI lumbar spine",1
+589,160,752,"60+ mins a day walking.",0
+590,160,752,"consider PT if walking not helping.",0
+591,160,752,"take NSAIDs twice a day for 6 wk.",0
+592,34,755,"f/u Buswinka",1
+593,34,755,"keep a journal of symptoms",1
+594,162,758,"cystoscopy due Dec '14",1
+595,162,763,"increase water.",0
+596,162,763,"may increase fiber after water increased.",0
+597,99,370,"ref to neurology",1
+598,159,766,"colonoscopy w Autry",1
+599,163,768,"cmp end of oct 2014",1
+600,91,302,"don't gain any weight until mid Jan 2015",1
+601,91,771,"xray L shoulder",1
+602,91,771,"if not improving can try injection of steroid",1
+603,91,309,"cut down from 40mg to 20mg a day",1
+604,91,303,"switch to atorvastatin 80mg at Meijers",1
+605,91,299,"Bilat EMG",1
+606,163,768,"increase enalapril to 30mg a day",1
+607,163,NULL,"f/u late jan",1
+608,130,562,"trial xanax prn",1
+609,125,649,"when mood stable for one months start treatment.",1
+610,153,775,"half dose of adult mirilax",1
+611,4,249,"google house cleaners for ludington area",1
+612,4,350,"f/u endo in Nov,",1
+613,86,684,"Seen Linda (Counselor) this week, scheduled another appointment for when she gets back from vacation in two weeks",1
+614,110,432,"f/u in Dec",1
+615,110,433,"have levaquin available.",1
+616,110,776,"will need lipids in spring of 2015",1
+617,143,781,await,1
+618,143,781,"await urine",1
+619,99,655,"ref to PTH",1
+620,99,655,"ref to neurology",1
+621,99,784,"start cipro",1
+622,99,784,"f/u urine 2 wks after finishing antibiotic",1
+623,99,655,"ref to endocrinology",1
+624,99,370,"start Aricept 5mg before bed",1
+625,99,NULL,"family discussion regarding end of life logistics",0
+626,61,166,"cbc, serum Fe, TIBC, ferritin ordered now",1
+627,61,788,"UA w culture now",1
+628,165,785,"take augmentin",1
+629,18,15,"1lb weight loss by dec",1
+630,18,169,"MRI knee",1
+631,54,738,"repeat cmp mid Nov",1
+632,54,737,"start Fe oral",1
+633,54,737,"repeat cbc, TIBC, serum Fe mid Nov",1
+634,54,122,"alternate BS reading morning and after meals",1
+635,54,NULL,"pneumonia vac",1
+636,101,379,"overnight pulse oximitry",1
+637,69,402,"establish cardiologist in AZ when down for the winter. ",1
+638,69,792,"start nasal steroid",1
+639,86,793,"Work with Linda on the mental health aspects of the fears of my heart and dying scared from my heart",1
+640,86,793,"Keep taking my meds",1
+641,108,415,"do not go above 260 lb during the holiday season, resume weight loss mid Jan",1
+642,108,412,"cmp, microalbumin by next apt",1
+643,168,800,"may take 3 lasix a day",1
+644,168,799,"start Aricept 5mg",1
+645,168,798,"trial tylenol 3",1
+646,168,798,"xray if not improving",1
+647,167,801,"trial switching from ropinarole to mirapex",1
+648,169,807,"weight 260 lb by end of 2015",0
+649,169,809,"cbc in early 2015",1
+650,169,811,"gluteal exercises shown, gradually increase in frequence",1
+651,34,814,"finish up AB",1
+652,34,NULL,"call Fitzgerald's office regarding pelvic US??",1
+653,124,533,"will try injection w Dr Sears",1
+654,124,532,"establish w local gyn",0
+655,124,531,"try taking Li before bed",1
+656,86,278,"daily stretching",1
+657,86,278,"continue clonipin prn",1
+658,20,818,"diagnostic mammogram, US L breast",1
+659,20,19,"don't gain any weight until mid Jan 2015",1
+660,132,574,"may try accupuncture, just check w surgeon regarding knee proper.",1
+661,132,573,"TSH ordered",1
+662,127,552,"check Vit D in spring '15",1
+663,127,820,xray,1
+664,127,820,"PT ",1
+665,127,821,"check lipids spring '15",1
+666,127,822,"hemocults given",1
+667,127,822,"taking OTC Fe",1
+668,127,822,"repeat CBC, serum Fe, TIBC",1
+669,18,169,"ref to ortho",1
+670,78,NULL,"will speak with wife regarding care plan",0
+671,168,827,"cxr, ekg",1
+672,168,827,PFT,1
+673,168,827,"order echo at next apt",1
+674,83,254,"CT pending",1
+675,83,829,"if bp increasing then call  Dr Peterson",1
+676,83,NULL,"echo pending Feb due to low EF in July 14",1
+677,139,834,"f/u Dec 12th cardiology",1
+678,139,NULL,"cbc, cmp",1
+679,139,639,"add seroquel before bed",1
+680,74,204,"d/c AM propanolol",1
+681,74,204,"cbc, cmp",1
+682,46,145,"Mg labs draw in spring 2015",1
+683,46,93,"trial cutting back to 20mg of lisinopril",1
+684,125,566,"back home this weekend",1
+685,125,539,"quit end of Nov 14",1
+686,34,835,"pelvic US due Aug '15",1
+687,154,711,"Mg labs Dec 14",1
+688,154,711,"if Mg not improving then will need 24 hour urine Mg",1
+689,170,836,"take cipro, contact urology",1
+690,140,630,"lipids and cmp due",1
+691,168,843,"repeat CMP this week",1
+692,173,848,"cbc, serum Fe, TIBC ordered",1
+693,139,832,"communicate regularly with family",1
+694,8,850,"start PT",1
+695,8,850,"if not improving then MRI",1
+696,8,850,"prn flexoril",1
+697,8,850,"ibuprofen prn",1
+698,22,852,"check MRI to ensure complete visualization of ureter to bladder",1
+699,22,852,"MAG-3 pending",1
+700,22,236,"studies per nephrology pending",1
+701,168,853,"start oxygen at 2L",1
+702,174,854,"24 hour urine albumin",1
+703,174,854,"renal ultrasound",1
+704,174,856,"renal artery US",1
+705,4,858,"repeat CMP mid Nov",1
+706,87,859,"xray if not improving",1
+707,87,284,"increase lisinopril from 40mg to 60mg",1
+708,87,284,"bmp end of Nov 14",1
+709,72,614,"stay in with Bill",1
+710,72,861,"MRI brain",1
+711,72,861,cmp,1
+712,72,860,"doxy to avoid aspiration pneumonia",1
+713,72,860,"MRI brain, and neck",1
+714,72,NULL,"valium 5mg once before MRI",1
+715,138,862,keflex,1
+716,138,621,"kenalog IM",1
+717,60,NULL,"cmp by end of 2014",1
+718,81,868,"start lipitor",1
+719,81,868,"repeat lipids, cmp",1
+720,156,871,"trial topical steroids",1
+721,156,870,"prn compression stocking",0
+722,97,NULL,"will establish with IM in texas",0
+723,97,624,"f/u in April w nephrology",0
+724,97,581,"Dr Peterson will coordinate Hgb orders while away in Texas, and there after.",0
+725,97,359,"f/u w cardiology 2015",0
+726,97,361,"bone density mid 2015",0
+727,97,873,"will try stopping, see if any change in sx.",0
+728,98,462,"spring '15 repeat ionized Ca",1
+729,98,366,"repeat CMP spring 2015",1
+730,98,874,"will try wrist splint for certain activities",1
+731,98,874,"xray if progressively worse",1
+732,98,875,"shave bx if not returning to normal.",1
+733,98,874,"trial voltaren gel",1
+734,176,878,"cipro, and flagyl start now",1
+735,72,861,"MRI cervical spine",1
+736,34,38,"US abd if sx not improving",1
+737,34,881,"start allergy shots",1
+738,34,NULL,"f/u with Gyn",1
+739,177,884,PT,1
+740,177,884,"MRI if sx not improving",1
+741,177,884,"daily Meloxicam",1
+742,168,827,"pulmonology referral",1
+743,168,827,"repeat cxr w obliques mid Dec '15",1
+744,168,799,"may taper up Aricept after oxygen levels adjusted , maybe end of winter",1
+745,168,800,"compression stocking in the day time",1
+746,168,843,"repeat CMP end Nov",1
+747,168,842,"repeat CBC end Nov",1
+748,168,827,"echo pending",1
+749,168,853,"3L oxygen when ambulatory",1
+750,135,598,"repeat CBC in Jan '15",1
+751,135,885,"will switch to nexium from omeprazole due to insurance",1
+752,135,886,"will try prn triamcinolone",1
+753,135,602,"keep cutting down",1
+754,4,887,cmp,1
+755,4,887,"f/u w gen surgery next week",1
+756,4,3,"holding metformin due to renal failure",1
+757,4,858,"cmp NOW",1
+758,4,NULL,"### SHOULD WE ALLOW MOTHER TO ACCESS INFORMATION??",1
+759,50,113,"titrate rapid acting scale, check 1.5 after dosing",1
+760,50,699,"trail mirilax",1
+761,140,888,"2-3000 units a day",1
+762,140,631,"check BS fasting, and 1-2 hours after large meal",0
+763,140,889,"Vit E",1
+764,8,850,"switch to soma",1
+765,44,892,"Black Cohash trial",1
+766,148,681,"establish w psychiatry at U of M",1
+767,134,592,"use valium for a while, until ok w restoril",1
+768,173,848,"Hemoccult cards",1
+769,173,848,"Start oral iron",1
+770,173,848,"Recheck CBC in early January",1
+771,173,844,"Follow up with with her cardiology December 4.",1
+772,173,844,"Will need a transesophageal echo",1
+773,173,897,"X-ray of the lumbar spine",1
+774,22,28,"Surgery scheduled for December 9",1
+775,121,515,"Try facet injections",1
+776,121,521,"At social events to calendar for the next few weeks",1
+777,121,518,"Try switching from Symbicort to Advair.",1
+778,121,518,"Will try starting Spiriva once a day",1
+779,121,525,"Try finding a different thing to do in the evening other than eating that helps you relax",1
+780,121,898,"Get a new CPAP machine",1
+781,121,521,"try starting cymbalta",1
+782,123,719,"Come up with one thing to do instead of eating to help you relax",0
+783,123,719,"If not losing 1 pound by next visit will reduce Valium 55 tablets a month.",1
+784,72,NULL,"B carotid US for possible issue per MRI cervical spine",1
+785,121,519,"trial switching from Advair to Qvar",1
+786,13,901,"serum Fe, TIBC, ferritin at next blood draw",1
+787,13,902,"dietary improvement",0
+788,158,745,"start OTC Fe",1
+789,158,742,"increase from 15mg ER to 30mg ER",1
+790,158,903,"pap, gc, chlamydia, vag, candida panel sent",1
+791,158,745,"repeat ferritin, serum Fe summer 2015",1
+792,158,903,ua?,1
+793,72,860,"upper GI, possible endoscopy",1
+794,72,861,"ref to neurology, may need EMG",1
+795,179,907,"get into CMH",1
+796,179,907,"f/u w psych in TC in Feb 2015",1
+797,107,NULL,"TSH, Microalbumin.   CBC, CMP, Lipid panel ordered.",1
+798,108,414,"peripheral smear next cbc",0
+799,108,918,"repeat microalbumin late 2015",0
+800,29,922,"work on asthma action plan",0
+801,29,445,"ua by end of dec 2015",0
+802,89,293,"if weight not down by feb cut back on pain pill",1
+803,89,NULL,"fasting labs ordered, due by feb 15",1
+804,134,924,"start doxy",1
+805,181,926,"cut back to 3 / day",1
+806,181,NULL,"cbc, cmp, lipids ordered",1
+807,183,927,"f/u w infectious disease doctor in Oregon",0
+808,183,928,"consider echocardiogram",0
+809,139,833,"get together groups",1
+810,139,NULL,"finishing upstairs bedroom",1
+811,4,350,"TSH end Nov",1
+812,4,858,"UA now",1
+813,184,932,"start counselling",1
+814,184,932,"start counseling",1
+815,184,NULL,"screening fasting labs ordered",0
+816,184,932,"prn xanax",1
+817,184,932,"write a list: steps to take for anxiety management",1
+818,84,266,"will try st john's wort",1
+819,84,266,"may try mother's wort, only try one every 2 months.",1
+820,84,937,"try full spectrum light",0
+821,185,938,"start Multaq",1
+822,185,938,"cbc, cmp, mg ordered",1
+823,185,938,"f/u w WSC",1
+824,186,NULL,"cbc, cmp, microalbumin, lipids ordered",1
+825,108,411,"resume 4 valium a day for the holiday season",1
+826,54,125,"new defibrillator to be placed dec 12th",1
+827,54,790,"repeat next draw",1
+828,54,943,"doppler LE at apt",1
+829,54,739,"repeat cmp dec",1
+830,54,122,"A1C at next apt",1
+831,4,NULL,"review holter monitor report",1
+832,33,35,"valium norco taper down",1
+833,33,35,"home PT start now",1
+834,33,36,"hold lasix",1
+835,33,36,"cbc, cmp by mid Dec",1
+836,33,35,"prn biofreeze",1
+837,187,946,"forward tipping chair",1
+838,187,946,"using walker",1
+839,167,801,"switch entirely mirpex",1
+840,167,801,"continue to increase walking, see if it helps",1
+841,167,951,"will start digoxin",1
+842,188,955,"norco bid",1
+843,188,955,"if sx worsen then f/u w Greenslate",1
+844,188,957,"shave bx",1
+845,188,954,"cmp by mid dec 14",1
+846,41,958,"destroy if not resolving",0
+847,189,963,"repeat US kidneys late 2015",0
+848,85,965,"xray lumbar spine if not improving",1
+849,85,273,"bcc mid 2015",1
+850,85,966,"A1C mid 2015",1
+851,4,968,"cxr, rib xray R",1
+852,4,968,"f/u with chiropractor",1
+853,4,968,"may take 4 extra tylenol w or wo codeine a day",1
+854,190,969,"f/u w pulm",1
+855,191,979,"will increase levothryoixin from 137 to 137/162 alternating for a couple weeks, if sx not reasonable then may increase to 162 a day. ",1
+856,191,979,"repeat tsh/t4 in 2-3 mo.",1
+857,191,975,"try switching from dexilant to omeprazole",1
+858,191,980,"will start PT if sx not improving ",1
+859,191,980,"xray lumbar spine",1
+860,191,981," cbc, ferritin, TIBC at next blood draw ",1
+861,191,981,"start OTC Fe.",1
+862,192,982,"repeat BMD 2016",0
+863,192,983,"endoscopy ref made",1
+864,192,986,"removal at office",0
+865,29,450,"CMP by end of dec",1
+866,156,987,"start AB if sx worsen ",1
+867,156,871,"may alternate w topical moisturizer",1
+868,131,568,"ref to Edgar from muskegon",1
+869,131,579,"modify food and beverages, if not improving",1
+870,131,579,"if not improving ref to urology",1
+871,131,577,"modify diet, monitor",1
+872,131,571,"repeat in early 2015, if still up will start statin.",1
+873,131,568,"increase norco to 4 a day for a whil",1
+874,132,575,"try switching from lexapro to pristiqu",1
+875,168,842,"bcc early Jan",1
+876,168,990,"trial melatonin, benadryl",1
+877,168,795,"hold day time atenolol",1
+878,168,799,"d/c aricept",1
+879,105,991,"if sx still bothersome and elevated temp then call",1
+880,82,992,"breast reduction surgery",0
+881,104,391,"resume 100mg of coozar (up from 50mg)",1
+882,104,994,"repeat next blood draw",1
+883,104,616,"resume chiropractor",1
+884,104,616,"if pain worsening consider MRI",1
+885,104,617,"MRI if pain gets worse",1
+886,20,357,"repeat cmp in march 15",1
+887,20,392,"bite guard for bedtime",1
+888,21,995,"may try stopping gabapentin",1
+889,21,996,"try stopping gabapentin and see if sx resolve",1
+890,21,997,"compression stockings",1
+891,21,997,"Na restriction",1
+892,21,267,"resume PT in spring 15",1
+893,21,20,"check ankle wrist BP monitor",1
+894,18,169,"f/u ortho",1
+895,18,15,"1lb weight loss by march 15",1
+896,18,15,"no popcorn buckets",1
+897,18,NULL,"screening labs due **NEXT APT***",1
+898,193,1001," consider switching to lyrica",1
+899,193,1002,"xray cervical spine",1
+900,193,1002,stretches,1
+901,193,1003,"repeat TSH end of Jan",0
+902,155,722,"cut back to 3/day",0
+903,5,1005,"topical AB twice a day",1
+904,5,1005,"if sx worsen then oral AB",1
+905,139,1007,"increase to seroquel xr 100mg before bed",1
+906,139,1007,"if worse, consider in pt treatment",1
+907,127,822,"cbc, serum Fe in spring 15",1
+908,127,548,"take geondon before",1
+909,127,1013,"f/u dentist in Maistee",1
+910,151,707,"repeat CBC jan 15",1
+911,46,97,"vit D 2000 units a day",1
+912,46,NULL,"bring in ALL meds in bag at next visit",1
+913,46,136,"continue to taper off gabapentin",1
+914,46,1015,"taper off caffeine ",1
+915,46,1015,"trial melatonin",1
+916,46,137,"consider new dog??",1
+917,125,1017,"D/C ablation",1
+918,125,649,"wait till d&c, ablation completed",1
+919,151,702,"ref to zimmerman",1
+920,151,702,"mri lumbar spine, sedation",1
+921,151,1018,"new glucometer",1
+922,197,1023,"f/u w nephrology",1
+923,197,NULL,"PE in 3 mo",1
+924,112,471,"TSH by mid 2015",1
+925,112,1027,"MRI brain",1
+926,20,388,"f/u mid Dec if sx not improving",1
+927,20,388,"ibuprofen for body aches.",1
+928,20,1028,"increase water intake",1
+929,117,504,"resume ASA 325mg, start w 81mg if no sig sx after a month increase dosage.",1
+930,117,504,"apt w cardiology in the spring",1
+931,117,497,"repeat UA in spring of 2015",1
+932,117,496,"pomegranate juice to retard PSA increase",1
+933,181,925,"will try to get records from original diagnosing doc",1
+934,181,925,"pt refusing strattera",1
+935,54,790,"repeat early 2015",1
+936,54,737,"repeat cbc, TIBC, serum Fe  Feb 2015",1
+937,198,1029,"echo ordered",1
+938,198,1030,"Microalbumin. ordered",1
+939,111,452,"A1C march 2015",1
+940,111,1036,"trial valium 5mg before bed prn",1
+941,187,1038,"cbc, INR, UA",1
+942,187,946,"home based PT",1
+943,72,750,"cbc feb 15",1
+944,72,1039,"ref to vascular surgery",1
+945,86,1040,"AB if sx change",1
+946,86,NULL,"lipids and cbc ordered",1
+947,87,1042,"contact CMH",1
+948,87,1042,"establish volunteer work",1
+949,87,1043,"xray ordered",1
+950,199,NULL,"cbc, cmp, lipids, tsh, mg",1
+951,199,1048,"try to cut back to 18",1
+952,199,NULL,"annual labs, cbc, cmp, lipids, tsh, mg",1
+953,199,NULL,ekg,0
+954,199,1050,"repeat CBC next week",0
+955,199,1051,"ref to neurology",0
+956,199,NULL,"labs for ebola exposure",1
+957,199,1053,"will find mycologist for referral ",0
+958,199,1053,"MRI brain w and wo",1
+959,201,1059,"ekg, cxr cbc, mg, tsh for palpitations",1
+960,201,1059,"event monitor",1
+961,203,1065,"ekg,  echo event monitor 4 wk. Mg, TSH",1
+962,204,1066,"anxiety plan: write and begin to use",0
+963,148,762," Brighton Hospital for in-patient treatment",1
+964,94,347,"CT lumbar spine",1
+965,94,347,"ref neurosurgeon",1
+966,205,NULL,"labs in summer w Fe, TIBC",1
+967,207,1075,"f/u w gen surgery",0
+968,94,340,"try to take 4 times / day",1
+969,94,NULL,"discuss end of life plans with children and spouse.",0
+970,94,347,"resume PT",1
+971,168,1077,"steroids IM now, AB rx sent",1
+972,69,190,"cbc spring of 2015",1
+973,69,682,"increase levothyroixine from 25 to 50 mcg",1
+974,69,682,"TSH feb 2015",1
+975,69,682,"us thryoid in 2015",1
+976,118,1079,"TSH april 2015",1
+977,118,1078,"hearing test at ENT",1
+978,153,710,"expectant care, f/u if not improving.",1
+979,153,709,"trial addition of pediasure sidekicks ",1
+980,153,1080,"xray if not resolving",1
+981,153,710,"trial albuterol",1
+982,190,970,"CT pulm",1
+983,190,969,"f/u pulm feb 2014",1
+984,190,1082,"xray shoulder and clavicle",1
+985,190,1082,PT,1
+986,173,894,"trial d/c spiriva",1
+987,173,894,"trial symbicrot (if covered by insurance)",1
+988,173,1084,"lipids in 11/15",1
+989,86,1085,"expectant care.",1
+990,139,645,"f/u w cardiology mid 2015",1
+991,139,642,"lipids early 2015",1
+992,139,1086,"resume lisinopril 5mg",1
+993,139,1086,"cmp early 2015",1
+994,87,859,"injection to spur??",1
+995,66,1087,"may try glucosamine chondriton",1
+996,66,1088,"improve diet, fresh foods regularly",0
+997,66,1087,"try voltaren gel",1
+998,66,186,"send a note that says ""i love you""",1
+999,8,850,"pain clinic pending",1
+1000,8,7,"may resume cymbalta at lower dose of 30mg a day if needed.",1
