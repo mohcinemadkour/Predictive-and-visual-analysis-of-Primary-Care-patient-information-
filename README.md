@@ -17,7 +17,7 @@ In this project we aim to use the EHRs/EMRs collected in a primary care clinic t
 Recent advances in predictive analysis in medicine have helped providers make sense of how predictive modeling algorithms fit into population health management. These algorithms identify repeated reliable patterns in data that lend themselves for prediction, rather than fit statistical models that generalize the population. The in-depth research in predictive modeling algorithms have demonstrated a progress in increasing the accuracy of diagnoses and preventing patient-level disease and financial losses leading to increased waste, to cite only few.
 
 Furthermore, the Information design principle “Visual Information-Seeking Mantra : overview first, zoom and filter, then details on demand” proposed by Ben Shneiderman has been successfully applied as a framework for designing information visualization applications. Using on its principle, the core components of our visualization approach are described in the chart bellow. 
-
+ ![Design](../Images/Design.png)
 
 # Objectives
 
