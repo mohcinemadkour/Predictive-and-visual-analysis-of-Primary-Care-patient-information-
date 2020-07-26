@@ -60,7 +60,7 @@ We will be applying best practice methods to make sure that the samples used are
 - An IRB approval will be sought from CPHS.
 - No new subject will be recruited. No consent will be collected. 
 
-# um,kjData handling and record keeping
+# Data handling and record keeping
 
 •	Data will be kept on its original servers on the primary care clinic and will be made securely queirable from our offices at the school of Biomedical informatics in UTHealth, Houston, TX.
 •	Data security under HIPA guidelines and research related ethics will be highly respected by team members.
