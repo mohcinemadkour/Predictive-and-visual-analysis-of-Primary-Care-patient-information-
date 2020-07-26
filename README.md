@@ -32,6 +32,7 @@ Furthermore, the Information design principle “Visual Information-Seeking Mant
 - Develop a timeline and visual analytic tool to visually explore temporal data patterns.
 
 # Study Design
+![Design](./Images/design2.png)
 
 # Study Population
 
